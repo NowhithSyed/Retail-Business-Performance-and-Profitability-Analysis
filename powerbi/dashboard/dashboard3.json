@@ -1,0 +1,36 @@
+{
+  "name": "Minimal Professional Theme",
+  "dataColors": [
+    "#2F80ED", 
+    "#56CCF2", 
+    "#27AE60", 
+    "#F2C94C", 
+    "#EB5757"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#2F80ED",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 14,
+            "color": "#333333"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": "#FAFAFA",
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

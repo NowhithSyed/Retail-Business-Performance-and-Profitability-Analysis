@@ -1,0 +1,38 @@
+{
+  "name": "Professional Dashboard Theme",
+  "dataColors": [
+    "#2F4F4F",
+    "#00BFFF",
+    "#FFD700",
+    "#FF7F50",
+    "#E6E6E6",
+    "#8A2BE2",
+    "#32CD32"
+  ],
+  "background": "#FAFAFA",
+  "foreground": "#2F4F4F",
+  "tableAccent": "#00BFFF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 14,
+            "color": "#2F4F4F"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": "#FFFFFF",
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
