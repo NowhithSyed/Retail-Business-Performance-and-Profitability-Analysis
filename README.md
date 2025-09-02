@@ -20,19 +20,6 @@ It covers data cleaning, exploratory analysis, SQL queries, and interactive dash
 4. Power BI Dashboard Creation  
 5. Final Report Preparation  
 
----
-
-## 📊 Dashboards
-### Executive Summary
-![Summary Dashboard](powerbi/dashboards/Summary_dashboard.png)
-
-### Product Performance
-![Product Dashboard](powerbi/dashboards/Product_dashboard.png)
-
-### Regional Performance
-![Regional Dashboard](powerbi/dashboards/Regional_dashboard.png)
-
----
 
 ## 📈 Key Insights
 - Profit margin was negative in some categories.  
@@ -41,5 +28,4 @@ It covers data cleaning, exploratory analysis, SQL queries, and interactive dash
 
 ---
 
-## 📄 Final Report
-[Download Final Report](reports/Project Report.pdf)
+
