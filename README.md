@@ -42,4 +42,4 @@ It covers data cleaning, exploratory analysis, SQL queries, and interactive dash
 ---
 
 ## 📄 Final Report
-[Download Final Report](reports/Final_Project_Report.pdf)
+[Download Final Report](reports/Project Report.pdf)
